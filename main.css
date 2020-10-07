@@ -52,4 +52,10 @@ a{
     background-color: cadetblue;
     box-shadow: none;
 }
-
+.menu input{
+    border: none;
+    background-color: inherit;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font: 200;
+}
